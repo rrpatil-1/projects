@@ -221,7 +221,7 @@ if __name__ == "__main__":
             speak("i am jarvis. reloaded..... version two point O ..., Speed 1 tera hertz......, memory 1 gigabyte......")
 
         elif "sagar" in query:
-            speak("wo lavde ka baal hai...")
+            speak("he is a cute boy...")
             time.sleep(2)
             speak("do wana tell him")
         speak("do you have any other work sir") #it ask you if you want to open another task
